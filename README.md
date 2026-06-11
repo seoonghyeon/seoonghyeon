@@ -1,1 +1,3 @@
-![](https://github.com/seoonghyeon/seoonghyeon/blob/a066a2f9979e1f28f919020a4f2e999fce12b19b/gongfourz.png)![](https://github.com/seoonghyeon/seoonghyeon/blob/0a2d5de86bf08476d6d84c0dfd74983e7eb8bdcb/destinyz.png)
+<p align="center"
+![](https://github.com/seoonghyeon/seoonghyeon/blob/a066a2f9979e1f28f919020a4f2e999fce12b19b/gongfourz.png)
+</p>
